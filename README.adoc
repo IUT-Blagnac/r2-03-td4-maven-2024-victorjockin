@@ -9,9 +9,9 @@ INSTRUCTIONS DE COMPILATION
 Commandes à exécuter dans un terminal : +
 [source]
 ----
-(1) mvn compile +
-(2) mvn package +
-(3)	java -jar target/tp_qualite-1.0.jar <arguments> +
+(1) mvn compile
+(2) mvn package
+(3) java -jar target/tp_qualite-1.0.jar <arguments>
 ----
 
 DESCRIPTION
