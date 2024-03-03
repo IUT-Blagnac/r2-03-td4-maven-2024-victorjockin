@@ -1,6 +1,6 @@
 PROGRAMME CALCULATRICE   
 ----------------------
-Auteur :	Victor Jockin (3A)
+Auteur :	Victor Jockin (3A) +
 Date :		Mercredi 13 décembre
 
 
