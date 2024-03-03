@@ -16,13 +16,13 @@ DESCRIPTION
 -----------
 Les arguments attendus sont : +
 - des opérandes unitaires : 0, 1, 2, 3, 4, 5, 6, 7, 8 et 9 +
-- des opérateurs simples : \+, -, "*", / +
-+
+- des opérateurs simples : +, -, "*", / +
+
 Attention : le symbole "*" (multiplication) doit être encadré par des guillemets +
 
 
 EXEMPLES D'EXÉCUTION
 --------------------
-java -jar target/tp_qualite-1.0.jar 1 1 \+ +
+java -jar target/tp_qualite-1.0.jar 1 1 + +
 java -jar target/tp_qualite-1.0.jar 2 5 7 "*" - +
-java -jar target/tp_qualite-1.0.jar 2 5 \+ 7 2 1 / \+ \+ +
+java -jar target/tp_qualite-1.0.jar 2 5 + 7 2 1 / + +
