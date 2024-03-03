@@ -23,8 +23,8 @@ Les arguments attendus sont : +
 Attention : le symbole "*" (multiplication) doit être encadré par des guillemets +
 
 
-EXEMPLES D'EXÉCUTION
---------------------
+EXEMPLES DE COMMANDES D'EXÉCUTION
+---------------------------------
 [source]
 ----
 java -jar target/tp_qualite-1.0.jar 1 1 + +
